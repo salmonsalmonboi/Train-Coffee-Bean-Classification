@@ -1,0 +1,22 @@
+# Ignore dataset
+datasets/
+
+# Ignore virtual environment
+train-env/
+venv/
+*.env
+
+# Ignore model weights
+*.pt
+*.onnx
+*.tflite
+*.engine
+*.ncnn
+*.mlmodel
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training outputs
+runs/
