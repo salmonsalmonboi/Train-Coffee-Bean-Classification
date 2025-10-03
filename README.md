@@ -8,9 +8,9 @@
 
 > **หมายเหตุ:** Dataset ไม่ได้รวมอยู่ใน repo (ถูก ignore ไว้ใน `.gitignore`)
 
-1. ดาวน์โหลด dataset 15 Classหรือ Gatekeeper ได้จาก [Roboflow Project Link](https://universe.roboflow.com/chetsada-rngwe/coffee-bean-webcam)
-2. ดาวน์โหลด dataset Model A ได้จาก [Roboflow Project Link](https://universe.roboflow.com/chetsada-rngwe/coffee-bean-webcam-good-b2oel)
-3. ดาวน์โหลด dataset Model B ได้จาก [Roboflow Project Link](https://universe.roboflow.com/chetsada-rngwe/coffee-bean-webcam-defect-nn0fe)
+1. ดาวน์โหลด dataset 15 Classหรือ Gatekeeper ได้จาก [Roboflow Project Link](https://app.roboflow.com/chetsada-rngwe/coffee-bean-webcam/50)
+2. ดาวน์โหลด dataset Model A ได้จาก [Roboflow Project Link](https://app.roboflow.com/chetsada-rngwe/coffee-bean-webcam-good-4or2e/1)
+3. ดาวน์โหลด dataset Model B ได้จาก [Roboflow Project Link](https://app.roboflow.com/chetsada-rngwe/coffee-bean-webcam-defect-mmcwk/1)
 4. หลังจากดาวน์โหลด ให้วางโฟลเดอร์ dataset ไว้ในโครงสร้างดังนี้:
 
   
